@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/zengyao/aliyun/send/StaticPeram.java=UTF-8
+encoding//src/main/java/com/zengyao/config=UTF-8
+encoding//src/main/java/com/zengyao/config/AlipayConfig.java=UTF-8
+encoding//src/main/java/com/zengyao/config/AlipayInformation.java=UTF-8
+encoding//src/main/java/com/zengyao/service/impl=UTF-8
+encoding//src/main/java/com/zengyao/util/AlipayUser.java=UTF-8
+encoding//src/main/java/com/zengyao/util/ExcelUtil.java=UTF-8
+encoding//src/main/resources/log4j.properties=UTF-8
+encoding//src/main/webapp/common/header.jsp=UTF-8
+encoding//src/main/webapp/common/menu.jsp=UTF-8
+encoding//src/main/webapp/index/css/public.css=UTF-8
+encoding//src/main/webapp/index/css/style.css=UTF-8
+encoding//src/main/webapp/index/login.jsp=UTF-8
+encoding//src/main/webapp/user/css/public.css=UTF-8
+encoding/<project>=UTF-8

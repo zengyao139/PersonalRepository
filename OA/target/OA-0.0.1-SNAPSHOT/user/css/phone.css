@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 12px;
+    background: #4287c2;
+}
+.phone{
+	float:right;
+	width :200px;
+	height: 200px;
+	
+	
+	background-size:cover;
+	dispaly:block;
+	border-radius:50%;
+	/*
+		为符合各中浏览器，加border-redius前缀
+	*/
+	-webkit-border-radius:100px;
+	-moz-border-radius:100px;
+	margin: 50px;
+	/*
+		给头像框加上边框
+	*/
+	box-shadow:1px 1px  1px  rgba(0,0,0,0.6);
+	 border:1px   solid rgba(0,0,0,0.6)  ; 
+	background-repeat:no-repeat;
+}	
+.headcss {
+	
+	margin-top:50px;
+	margin-left:30px;
+	font-size: 24px;	
+	color: #0a5eb6;
+}
+
+
+
+
+
+
+
+
+
